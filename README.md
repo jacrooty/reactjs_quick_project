@@ -7,10 +7,12 @@ Reactjs with Webpack 4. This also includes all the Babel helpers.
 ## Getting Started
 For new projects, start out by downloading all the project dependencies'
 
-```npm install```
+```npm install
+```
 
 To make a development build and see the generated code in the dist folder which corresponds code sourced from src
-```npm run build```
+```npm run build
+```
 
 The you can fire up the web server and see it on the localhost:8080:
 
